@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Verifiable rating aggregation: replication package"
+message: "If you use this software, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: Vakil
+    given-names: Seyed Saeid
+    orcid: "https://orcid.org/0009-0009-1336-5045"
+    affiliation: "University of Qom"
+  - family-names: Farjami
+    given-names: Yaghoub
+    orcid: "https://orcid.org/0000-0003-1908-8826"
+    affiliation: "University of Qom"
+license: MIT
+version: "1.0.0"
+preferred-citation:
+  type: article
+  title: "Privacy-Preserving and Verifiable Product Rating Aggregation Using Threshold Homomorphic Encryption with Distributed Key Generation"
+  authors:
+    - family-names: Vakil
+      given-names: Seyed Saeid
+    - family-names: Farjami
+      given-names: Yaghoub
